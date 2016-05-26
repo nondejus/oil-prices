@@ -89,7 +89,8 @@
           {
             "name": "Date",
             "type": "date",
-            "description": "YYYY-MM"
+            "description": "YYYY-MM",
+            "format": "fmt:%Y-%m"
           },
           {
             "name": "Brent Spot Price",
@@ -109,7 +110,8 @@
           {
             "name": "Date",
             "type": "date",
-            "description": "YYYY"
+            "description": "YYYY",
+            "format": "fmt:%Y"
           },
           {
             "name": "Brent Spot Price",
@@ -169,7 +171,8 @@
           {
             "name": "Date",
             "type": "date",
-            "description": "YYYY-MM"
+            "description": "YYYY-MM",
+            "format": "fmt:%Y-%m"
           },
           {
             "name": "WTI Spot Price",
@@ -189,7 +192,8 @@
           {
             "name": "Date",
             "type": "date",
-            "description": "YYYY"
+            "description": "YYYY",
+            "format": "fmt:%Y"
           },
           {
             "name": "WTI Spot Price",
